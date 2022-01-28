@@ -1,8 +1,8 @@
-- Hi, I’m @EloMathies
-- I’m interested in Technical Writing and UX Research. 
-- I’m currently learning Technical Writing 
--  I’m looking to collaborate on UX Projects and OpenSource Technical Writing Documention.  
--I can best be reached through email! elonmath96@gmail.com 
+Hi, I’m @EloMathies and I am currently a Clinical Research Assistant working with Transcranial Magnetic Stimulation (TMS), a form of non-invasive brain stimulation! 
+Currently I have interest in Technical Writing, User Experience, and in general becoming more competent coder. I am open and interested in collaborations on OpenSource Technical Writing Documentation and UX/UI Projects. 
+
+I can easily be contacted by email at elonmath96@gmail.com
+
 
 <!---
 EloMathies/EloMathies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
