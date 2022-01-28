@@ -1,5 +1,5 @@
 Hi, I’m @EloMathies and I am currently a Clinical Research Assistant working with Transcranial Magnetic Stimulation (TMS), a form of non-invasive brain stimulation! 
-Currently I have interest in Technical Writing, User Experience, and in general becoming more competent coder. I am open and interested in collaborations on OpenSource Technical Writing Documentation and UX/UI Projects. 
+Currently I am interested in Technical Writing, User Experience, and in general becoming more competent coder. I am open and interested in collaborations on OpenSource Technical Writing Documentation and UX/UI Projects. 
 
 I can easily be contacted by email at elonmath96@gmail.com
 
